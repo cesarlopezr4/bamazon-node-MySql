@@ -1,0 +1,30 @@
+{
+  "name": "amazon-like-retail-storefront",
+  "version": "1.0.0",
+  "description": "information system fof registry and management products on a retail store",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesarlopezr4/amazon-like-retail-storefront.git"
+  },
+  "author": "Tito Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cesarlopezr4/amazon-like-retail-storefront/issues"
+  },
+  "homepage": "https://github.com/cesarlopezr4/amazon-like-retail-storefront#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquire": "^0.4.8",
+    "inquirer": "^6.4.1",
+    "msql": "^1.0.3",
+    "mysql": "^2.17.1",
+    "require": "^2.4.20",
+    "validate.js": "^0.13.1",
+    "validation": "0.0.1"
+  },
+  "devDependencies": {}
+}
